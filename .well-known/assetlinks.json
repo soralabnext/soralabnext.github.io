@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.soralabnext.kaimonohikaku",
+      "sha256_cert_fingerprints": [
+        "72:4E:B2:56:FF:5E:47:95:91:FD:D2:DA:2D:B8:F1:32:B5:BB:6F:43:CA:0C:26:67:0D:78:CD:45:85:D7:8B:08"
+      ]
+    }
+  }
+]
